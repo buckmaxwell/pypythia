@@ -10,6 +10,7 @@ class PyPythia():
             mynum = int(random.random()*9007199254740992)
             if mynum not in self.results:
                 present = False
+            self.results.append(mynum)
 
         return mynum
 
