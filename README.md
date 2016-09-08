@@ -1,4 +1,8 @@
+
+Need more Pythia? here's one in python https://www.reddit.com/r/ProgrammerHumor/comments/4sv6qr/true_random_number_generator/
+
 # PyPythia
+
 High quality &amp; fast true random number generator
 
 This is a high quality fast true random number generator. This means that PyPythia never ever repeats the same numbers again
@@ -12,17 +16,15 @@ from pythia import PyPythia
 pythia = new PyPythia();
 ```
 
+
 ##Pythia API:
 
 .generate  -  Generate a new random number.
-
 .reset     -  Reset and enable to restart and -probably- regenerate same numbers.
 
 
 Enjoy!
 
 
-Note: This thing works great but I don't even understand the point.  It's a python implementation of 
-https://github.com/g0d/Pythia.  Just use uuid's like a normal human.
-
+Note: This is a joke, please do not use
 
